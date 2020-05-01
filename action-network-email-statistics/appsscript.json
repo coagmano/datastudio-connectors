@@ -1,0 +1,17 @@
+{
+    "timeZone": "Australia/Sydney",
+    "dependencies": {
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "dataStudio": {
+      "name": "Action Network Email Statistics",
+      "logoUrl": "https://actionnetwork.org/images3/logo-color.png",
+      "company": "Frederick Stark",
+      "companyUrl": "https://github.com/coagmano",
+      "addonUrl": "https://github.com/coagmano/datastudio-connectors",
+      "supportUrl": "https://github.com/coagmano/datastudio-connectors",
+      "description": "Get email statitstics from Action Network"
+    }
+  }
+  
